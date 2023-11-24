@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+    <servlet>
+    	<servlet-name>insertItem</servlet-name>
+    	<servlet-class>con_Items.insertItem</servlet-class>
+    </servlet>
+    <servlet-mapping>
+    	<servlet-name>insertItem</servlet-name>
+    	<url-pattern>/insert</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+    	<servlet-name>UpdateItemsServlet</servlet-name>
+    	<servlet-class>con_Items.UpdateItemsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+    	<servlet-name>UpdateItemsServlet</servlet-name>
+    	<url-pattern>/update</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+    	<servlet-name>DeleteItemServlet</servlet-name>
+    	<servlet-class>con_Items.DeleteItemServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+    	<servlet-name>DeleteItemServlet</servlet-name>
+    	<url-pattern>/delete</url-pattern>
+    </servlet-mapping>
+    
+    
+
+
+   
+    
+
+</web-app>
