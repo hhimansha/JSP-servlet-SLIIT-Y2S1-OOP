@@ -7,3 +7,10 @@ Below is the landing page of the website.
 
 - **Landing page**
 ![homePage](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/7daf60be-31b1-4f48-bfb0-47592648645f)
+
+In the above landing page, it conatins all the inserted items by the Admin. In our system, only admin can add items to the store. All the stored items are fetching from the database. And this is the read part of my CRUD operations.
+
+Below is the admin dashboard. All the controlability for admin is in this page. 
+
+- **Admin dashboard**
+![adminDash](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/d0776fe2-7844-46a6-85cc-6ee7589851f1)
