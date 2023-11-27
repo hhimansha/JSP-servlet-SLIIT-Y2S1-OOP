@@ -21,3 +21,7 @@ And the below is the form for add items. This fulfills the create part of mt CRU
 - **Add items page**
 - ![addItems](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/4d7a32e1-89ae-4851-811d-6863f4e64919)
 
+In the below page, it shows all the added items seperately. And also it includes 'Update'and 'Delete' options. When user click 'Update' button, it redirect to the specific item's updatable form. The form includes previously added details of the item. User can update all the details from that form. And when user clicks 'Delete' button, it redirect to the form with that already inserted details. In this form user can not change any details of the item. Because it all are read only. Then user click 'Delete item', the system popups the alert message whether the item should delete or not. If user click 'Yes' the item will delete and redirect to the all items page.
+
+- **All items page**
+- ![allItems](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/7590dfe2-dc39-485b-903c-b2b7b0b4825a)
