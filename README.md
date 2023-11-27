@@ -14,3 +14,10 @@ Below is the admin dashboard. All the controlability for admin is in this page.
 
 - **Admin dashboard**
 ![adminDash](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/d0776fe2-7844-46a6-85cc-6ee7589851f1)
+
+And the below is the form for add items. This fulfills the create part of mt CRUD operations. In this form, the admin can add product details including the images of the items.
+
+
+- **Add items page**
+- ![addItems](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/4d7a32e1-89ae-4851-811d-6863f4e64919)
+
