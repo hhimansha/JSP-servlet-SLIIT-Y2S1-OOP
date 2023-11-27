@@ -5,4 +5,5 @@ This is the 2nd year 1st semester project for OOP module. The rpoject is to crea
 
 Below is the landing page of the website.
 
+- **Landing page**
 ![homePage](https://github.com/hhimansha/JSP-servlet-SLIIT-Y2S1-OOP/assets/143889589/7daf60be-31b1-4f48-bfb0-47592648645f)
